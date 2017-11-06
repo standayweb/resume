@@ -27,7 +27,7 @@ const imgStyle = css({
 const nameStyle = css({
   fontSize: '36px',
   fontWeight: '400',
-  color: '#95989a',
+  color: '#86888a',
   lineHeight: '1.15',
 });
 

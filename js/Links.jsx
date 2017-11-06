@@ -6,7 +6,7 @@ const style = css({
   width: '100%',
   maxWidth: 500,
   margin: '0',
-  color: '#95989a',
+  color: '#86888a',
   borderCollapse: 'collapse',
   fontSize: '14px',
   lineHeight: '24px',

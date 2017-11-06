@@ -64,7 +64,7 @@ const mainStyle = css({
   display: 'flex',
   flexDirection: 'column',
   background: '#3F4346',
-  color: '#95989a',
+  color: '#9c9fa0',
   padding: '72px 24px 36px 24px',
   '@media(min-width: 600px)': {
     padding: '72px 48px 36px 48px',
