@@ -3,7 +3,6 @@ import React from 'react';
 import { css } from 'glamor';
 
 const style = css({
-  fontWeight: '600',
   color: '#86888a',
   margin: '0 0 48px 0',
   textAlign: 'center',
