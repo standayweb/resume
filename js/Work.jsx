@@ -24,39 +24,29 @@ const Work = () => (
       </p>
       <List css={{ marginBottom: 36 }}>
         <li>
-          Working in a team building out an advanced new product allowing ESL to
-          reach into a newly developing e-sports market.
-        </li>
-        <li>
-          Leading crucial technology decisions about how the product will be
-          built.
-        </li>
-        <li>
-          Working with React, Redux, ES6, Webpack, Flow, Jest and more to create
-          a highly usable hybrid application which can run as a website, a
-          desktop app and a mobile app.
-        </li>
-        <li>
-          Working with node and GRPC to build out performant and scalable
-          realtime web services.
-        </li>
-        <li>
-          Building out scalable web socket proxy layer on top of GRPC to allow
-          services to be accessed from the browser and handling stuff like rate
-          limiting and authentication.
-        </li>
-        <li>
-          Building out store system to handle both product subscriptions and one
-          time purchases for many users, integrated with PayPal, Stripe and
+          Working with React, Redux, ES6, Webpack, Flow, Jest, Node, GRPC and
           more.
         </li>
         <li>
-          Successfully championed unit testing and typing initiatives bringing
-          increases in quality and decreases in bugs across the board.
+          Leading build of a hybrid app which can run on web, desktop and
+          mobile.
         </li>
         <li>
-          Conducting interviews for web team applicants and being the go to
-          person for knowledge of javascript and web technologies.
+          Leading build of a secure web socket GRPC proxy layer to allow service
+          access from the browser.
+        </li>
+        <li>
+          Leading build of a store system to handle both subscriptions and one
+          time purchases.
+        </li>
+        <li>Building out performant and scalable real time web services.</li>
+        <li>
+          Successfully introducing unit testing and typing to the web team.
+        </li>
+        <li>Conducting interviews for web team applicants.</li>
+        <li>
+          Being the go to person for knowledge of JavaScript and web
+          technologies.
         </li>
       </List>
 
@@ -69,14 +59,16 @@ const Work = () => (
       </p>
       <List css={{ marginBottom: 36 }}>
         <li>
-          Working with UK and US based clients to build large scale web
-          application’s and solutions to meet their business requirements.
-          Working directly with the clients own personnel to ensure their ideas
-          are executed to solutions fit for the purpose of their users and
+          Working with US based clients to build large scale web application’s
+          and solutions to meet their business requirements.
+        </li>
+        <li>
+          Communicating directly with the clients own personnel to ensure their
+          ideas are executed to solutions fit for the purpose of their users and
           business needs.
         </li>
         <li>
-          Successfully introduced react into the team bringing a wide range of
+          Successfully introducing React into the team bringing a wide range of
           benefits.
         </li>
       </List>

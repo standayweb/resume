@@ -6,9 +6,9 @@ const Summary = () => (
     <h4 css={{ fontWeight: 'normal' }}>Summary</h4>
     <p css={{ marginBottom: 72 }}>
       Software Engineer & JavaScript Junkie, all about building scalable,
-      maintainable applications with clean design and great user experience.
-      Wide range of experience, from static sites to desktop/mobile apps to
-      payment systems and more.
+      maintainable applications with clean design and great UX. Wide range of
+      experience, from static sites to desktop/mobile apps, to payment systems,
+      and more. Excellent communicator used to working in remote teams.
     </p>
   </div>
 );
