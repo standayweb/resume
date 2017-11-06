@@ -2,7 +2,7 @@
 import React from 'react';
 
 const Summary = () => (
-  <div css={{ color: '#86888a', fontSize: '14px', maxWidth: 500 }}>
+  <div css={{ color: '#717273', fontSize: '14px', maxWidth: 500 }}>
     <h4 css={{ fontWeight: 'normal' }}>Summary</h4>
     <p css={{ marginBottom: 72 }}>
       Software Engineer & JavaScript Junkie, all about building scalable,
