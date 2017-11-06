@@ -1,12 +1,12 @@
 # Stanley E. M. Day
 ## Software Engineer
 
-* Portfolio: http://standayweb.com
-* Github: https://github.com/standayweb
-* LinkedIn: https://www.linkedin.com/in/standayweb
-* Treehouse: https://teamtreehouse.com/standayweb
+* [Portfolio](http://standayweb.com): http://standayweb.com
+* [Github](https://github.com/standayweb): https://github.com/standayweb
+* [LinkedIn](https://www.linkedin.com/in/standayweb): https://www.linkedin.com/in/standayweb
+* [Treehouse](https://teamtreehouse.com/standayweb): https://teamtreehouse.com/standayweb
 
-Please visit standayweb.github.io for an online copy of this resume
+Please visit [standayweb.com/resume](http://standayweb.com/resume) for an online copy of this resume.
 
 ### Summary
 Software Engineer & JavaScript Junkie, all about building scalable, maintainable applications with clean design and great user experience. Wide range of experience, from static sites to desktop/mobile apps to payment systems and more.
