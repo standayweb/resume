@@ -32,9 +32,9 @@ const nameStyle = css({
 });
 
 const Header = () => (
-  <header css={headerStyle}>
-    <img css={imgStyle} src="/public/profile.jpg" alt="" />
-    <h1 css={nameStyle}>
+  <header className={headerStyle}>
+    <img className={imgStyle} src="/public/profile.jpg" alt="" />
+    <h1 className={nameStyle}>
       STANLEY<br /> E.M. DAY
     </h1>
   </header>

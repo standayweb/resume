@@ -28,7 +28,7 @@ const style = css({
 });
 
 const Links = () => (
-  <table css={style}>
+  <table className={style}>
     <tr>
       <td>Portfolio:</td>
       <td>

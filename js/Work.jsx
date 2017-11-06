@@ -15,7 +15,7 @@ const Work = () => (
   <section>
     <SectionTitle css={{ marginBottom: 12 }}>WORK</SectionTitle>
     <div css={{ display: 'flex', flexDirection: 'column', maxWidth: 600 }}>
-      <div css={jobTitleAndDateStyle}>
+      <div className={jobTitleAndDateStyle}>
         <p>Software Engineer</p>
         <p>(2016-Present)</p>
       </div>
@@ -60,7 +60,7 @@ const Work = () => (
         </li>
       </List>
 
-      <div css={jobTitleAndDateStyle}>
+      <div className={jobTitleAndDateStyle}>
         <p>Web Developer</p>
         <p>(2014-2016)</p>
       </div>
@@ -81,7 +81,7 @@ const Work = () => (
         </li>
       </List>
 
-      <div css={jobTitleAndDateStyle}>
+      <div className={jobTitleAndDateStyle}>
         <p>Web Developer</p>
         <p>(2012-2014)</p>
       </div>

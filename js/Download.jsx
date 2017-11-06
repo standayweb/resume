@@ -39,7 +39,7 @@ const Download = () => (
       width: '100%',
     }}
   >
-    <button css={buttonStyle}>
+    <button className={buttonStyle}>
       DOWNLOAD PDF
       <div />
     </button>

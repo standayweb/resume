@@ -16,7 +16,7 @@ const style = css({
 });
 
 const Current = () => (
-  <p css={style}>
+  <p className={style}>
     Current&nbsp;Position: Software&nbsp;Engineer&nbsp;at&nbsp;ESL
   </p>
 );

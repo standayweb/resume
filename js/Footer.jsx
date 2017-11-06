@@ -18,7 +18,7 @@ const footerStyle = css({
 });
 
 const Footer = () => (
-  <footer css={footerStyle}>
+  <footer className={footerStyle}>
     <p>Built with Preact, Webpack, and Glamor.</p>
     <p>
       Check out the code on{' '}
