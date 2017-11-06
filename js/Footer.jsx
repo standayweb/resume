@@ -23,7 +23,7 @@ const Footer = () => (
     <p>
       Check out the code on{' '}
       <a
-        href="https://github.com/"
+        href="https://github.com/standayweb/resume"
         target="_blank"
         rel="noopener noreferrer"
         css={{ color: 'inherit' }}
