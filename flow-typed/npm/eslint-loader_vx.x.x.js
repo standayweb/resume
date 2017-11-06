@@ -1,3 +1,4 @@
+// @flow
 // flow-typed signature: ae4f3fd73d5cfb60e18f31f594efdf00
 // flow-typed version: <<STUB>>/eslint-loader_v^1.9.0/flow_v0.57.3
 
@@ -22,7 +23,6 @@ declare module 'eslint-loader' {
  * require those files directly. Feel free to delete any files that aren't
  * needed.
  */
-
 
 // Filename aliases
 declare module 'eslint-loader/index' {

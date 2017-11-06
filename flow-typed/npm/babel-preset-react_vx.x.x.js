@@ -1,3 +1,4 @@
+// @flow
 // flow-typed signature: eee08ec3d24a00f6114899797802960c
 // flow-typed version: <<STUB>>/babel-preset-react_v^6.24.1/flow_v0.57.3
 

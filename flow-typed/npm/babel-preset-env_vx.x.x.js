@@ -1,3 +1,4 @@
+// @flow
 // flow-typed signature: 882f79af4abedc34d4dab5face4d4af3
 // flow-typed version: <<STUB>>/babel-preset-env_v^1.6.1/flow_v0.57.3
 
@@ -72,7 +73,7 @@ declare module 'babel-preset-env/lib/index.js' {
   declare module.exports: $Exports<'babel-preset-env/lib/index'>;
 }
 declare module 'babel-preset-env/lib/module-transformations.js' {
-  declare module.exports: $Exports<'babel-preset-env/lib/module-transformations'>;
+  declare module.exports: $Exports<'babel-preset-env/lib/module-transformations',>;
 }
 declare module 'babel-preset-env/lib/normalize-options.js' {
   declare module.exports: $Exports<'babel-preset-env/lib/normalize-options'>;
@@ -81,7 +82,7 @@ declare module 'babel-preset-env/lib/targets-parser.js' {
   declare module.exports: $Exports<'babel-preset-env/lib/targets-parser'>;
 }
 declare module 'babel-preset-env/lib/transform-polyfill-require-plugin.js' {
-  declare module.exports: $Exports<'babel-preset-env/lib/transform-polyfill-require-plugin'>;
+  declare module.exports: $Exports<'babel-preset-env/lib/transform-polyfill-require-plugin',>;
 }
 declare module 'babel-preset-env/lib/utils.js' {
   declare module.exports: $Exports<'babel-preset-env/lib/utils'>;

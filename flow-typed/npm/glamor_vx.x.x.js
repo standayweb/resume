@@ -1,3 +1,4 @@
+// @flow
 // flow-typed signature: 27eb122006992515c6b799f598badd54
 // flow-typed version: <<STUB>>/glamor_v^2.20.40/flow_v0.57.3
 
@@ -197,10 +198,10 @@ declare module 'glamor/lib/css/spec.js' {
   declare module.exports: $Exports<'glamor/lib/css/spec'>;
 }
 declare module 'glamor/lib/CSSPropertyOperations/CSSProperty.js' {
-  declare module.exports: $Exports<'glamor/lib/CSSPropertyOperations/CSSProperty'>;
+  declare module.exports: $Exports<'glamor/lib/CSSPropertyOperations/CSSProperty',>;
 }
 declare module 'glamor/lib/CSSPropertyOperations/dangerousStyleValue.js' {
-  declare module.exports: $Exports<'glamor/lib/CSSPropertyOperations/dangerousStyleValue'>;
+  declare module.exports: $Exports<'glamor/lib/CSSPropertyOperations/dangerousStyleValue',>;
 }
 declare module 'glamor/lib/CSSPropertyOperations/index.js' {
   declare module.exports: $Exports<'glamor/lib/CSSPropertyOperations/index'>;

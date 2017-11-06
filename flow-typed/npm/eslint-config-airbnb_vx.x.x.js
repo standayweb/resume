@@ -1,3 +1,4 @@
+// @flow
 // flow-typed signature: c4015cc4c63480b263fea5ab4c768b19
 // flow-typed version: <<STUB>>/eslint-config-airbnb_v^16.1.0/flow_v0.57.3
 
@@ -69,5 +70,5 @@ declare module 'eslint-config-airbnb/test/test-base.js' {
   declare module.exports: $Exports<'eslint-config-airbnb/test/test-base'>;
 }
 declare module 'eslint-config-airbnb/test/test-react-order.js' {
-  declare module.exports: $Exports<'eslint-config-airbnb/test/test-react-order'>;
+  declare module.exports: $Exports<'eslint-config-airbnb/test/test-react-order',>;
 }

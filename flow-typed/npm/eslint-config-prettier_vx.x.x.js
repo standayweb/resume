@@ -1,3 +1,4 @@
+// @flow
 // flow-typed signature: 127ae46f5458720b42e9820461f26ad0
 // flow-typed version: <<STUB>>/eslint-config-prettier_v^2.6.0/flow_v0.57.3
 

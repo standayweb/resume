@@ -1,3 +1,4 @@
+// @flow
 // flow-typed signature: 21e53a03a45b324add7f348c3b7a035a
 // flow-typed version: <<STUB>>/babel-eslint_v^8.0.1/flow_v0.57.3
 
@@ -52,13 +53,13 @@ declare module 'babel-eslint/babylon-to-espree/toTokens' {
 
 // Filename aliases
 declare module 'babel-eslint/babylon-to-espree/attachComments.js' {
-  declare module.exports: $Exports<'babel-eslint/babylon-to-espree/attachComments'>;
+  declare module.exports: $Exports<'babel-eslint/babylon-to-espree/attachComments',>;
 }
 declare module 'babel-eslint/babylon-to-espree/convertComments.js' {
-  declare module.exports: $Exports<'babel-eslint/babylon-to-espree/convertComments'>;
+  declare module.exports: $Exports<'babel-eslint/babylon-to-espree/convertComments',>;
 }
 declare module 'babel-eslint/babylon-to-espree/convertTemplateType.js' {
-  declare module.exports: $Exports<'babel-eslint/babylon-to-espree/convertTemplateType'>;
+  declare module.exports: $Exports<'babel-eslint/babylon-to-espree/convertTemplateType',>;
 }
 declare module 'babel-eslint/babylon-to-espree/index.js' {
   declare module.exports: $Exports<'babel-eslint/babylon-to-espree/index'>;

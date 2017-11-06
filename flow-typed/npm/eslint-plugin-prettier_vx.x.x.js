@@ -1,3 +1,4 @@
+// @flow
 // flow-typed signature: dc92fc617822e543cc2ba23d5b15a76b
 // flow-typed version: <<STUB>>/eslint-plugin-prettier_v^2.3.1/flow_v0.57.3
 
@@ -28,5 +29,5 @@ declare module 'eslint-plugin-prettier/eslint-plugin-prettier' {
 
 // Filename aliases
 declare module 'eslint-plugin-prettier/eslint-plugin-prettier.js' {
-  declare module.exports: $Exports<'eslint-plugin-prettier/eslint-plugin-prettier'>;
+  declare module.exports: $Exports<'eslint-plugin-prettier/eslint-plugin-prettier',>;
 }

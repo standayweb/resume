@@ -1,3 +1,4 @@
+// @flow
 // flow-typed signature: 9acf823392aca1b6523f2a931db7ac18
 // flow-typed version: <<STUB>>/babel-plugin-transform-class-properties_v^6.24.1/flow_v0.57.3
 
@@ -28,5 +29,5 @@ declare module 'babel-plugin-transform-class-properties/lib/index' {
 
 // Filename aliases
 declare module 'babel-plugin-transform-class-properties/lib/index.js' {
-  declare module.exports: $Exports<'babel-plugin-transform-class-properties/lib/index'>;
+  declare module.exports: $Exports<'babel-plugin-transform-class-properties/lib/index',>;
 }

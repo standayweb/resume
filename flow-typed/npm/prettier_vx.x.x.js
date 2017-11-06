@@ -1,3 +1,4 @@
+// @flow
 // flow-typed signature: 4f6135b8c83e3385bfd8c8e368357804
 // flow-typed version: <<STUB>>/prettier_v^1.7.4/flow_v0.57.3
 

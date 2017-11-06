@@ -1,3 +1,4 @@
+// @flow
 // flow-typed signature: 0c82f17c90e72498ba8f4b4682e9886e
 // flow-typed version: <<STUB>>/babel-loader_v^7.1.2/flow_v0.57.3
 
