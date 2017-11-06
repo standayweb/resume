@@ -57,7 +57,11 @@ const config = {
 if (process.env.NODE_ENV === 'production') {
   config.entry = './js/ClientApp.jsx';
   config.devtool = false;
-  config.plugins = [];
+  config.plugins = [
+    new webpack.ProvidePlugin({
+      Glamor: 'glamor/react',
+    }),
+  ];
 }
 
 module.exports = config;
