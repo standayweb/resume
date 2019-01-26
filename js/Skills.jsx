@@ -1,12 +1,12 @@
 // @flow
-import React from 'react';
-import SectionTitle from './SectionTitle';
-import List from './List';
+import React from "react";
+import SectionTitle from "./SectionTitle";
+import List from "./List";
 
 const Skills = () => (
   <section>
     <SectionTitle>SKILLS</SectionTitle>
-    <div css={{ display: 'flex', flexWrap: 'wrap' }}>
+    <div css={{ display: "flex", flexWrap: "wrap" }}>
       <div css={{ flexGrow: 1 }}>
         <h4>Front End</h4>
         <List>
@@ -15,7 +15,7 @@ const Skills = () => (
           <li>Bootstrap, SASS, PostCSS, Responsive</li>
           <li>Rx, Ramda, Lodash, Functional</li>
           <li>Grunt, Gulp, NPM, Webpack</li>
-          <li>Mobile Web, Hybrid Apps, Electron</li>
+          <li>Mobile Web, Electron, Widgets</li>
         </List>
       </div>
       <div css={{ flexGrow: 1 }}>
