@@ -12,7 +12,8 @@ const Skills = () => (
         <List>
           <li>JavaScript, ES6, HTML, CSS</li>
           <li>React, Redux, Jest, Typescript</li>
-          <li>Tailwind, SASS, CSS in JS, Responsive, Design Systems</li>
+          <li>Tailwind, SASS, CSS in JS</li>
+          <li>UX, Responsive, Design Systems</li>
           <li>Rx, Ramda, Lodash, Functional</li>
           <li>Grunt, Gulp, NPM, Webpack</li>
           <li>Mobile Web, Electron, Widgets</li>

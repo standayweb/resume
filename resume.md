@@ -19,7 +19,8 @@ Software Engineer & JavaScript Junkie, all about building scalable, maintainable
 
 - JavaScript, ES6, HTML, CSS
 - React, Redux, Jest, Typescript
-- Tailwind, SASS, CSS in JS, Responsive, Design Systems
+- Tailwind, SASS, CSS in JS
+- UX, Responsive, Design Systems
 - Rx, Ramda, Lodash, Functional
 - Grunt, Gulp, NPM, Webpack
 - Mobile Web, Hybrid Apps, Electron, Widgets
