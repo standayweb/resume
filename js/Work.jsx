@@ -8,7 +8,7 @@ const jobTitleAndDateStyle = css({
   display: "flex",
   justifyContent: "space-between",
   fontSize: 14,
-  margin: "0 0 12px 0"
+  margin: "0 0 12px 0",
 });
 
 const Work = () => (
@@ -16,8 +16,29 @@ const Work = () => (
     <SectionTitle css={{ marginBottom: 12 }}>WORK</SectionTitle>
     <div css={{ display: "flex", flexDirection: "column", maxWidth: 600 }}>
       <div className={jobTitleAndDateStyle}>
+        <p css={{ color: "#FFF " }}>Senior Software Engineer</p>
+        <p>(2019-Present)</p>
+      </div>
+      <p css={{ fontWeight: "bold", fontSize: 14 }}>
+        enhance.com - Web Hosting Management, Made Simple.
+      </p>
+      <List css={{ marginBottom: 36 }}>
+        <li>
+          Working with React, Redux, ES6, Webpack, Typescript, Jest, and more.
+        </li>
+        <li>
+          Building out a modern alternative to cPanel with cutting edge web
+          technology.
+        </li>
+        <li>Advanced design system & component library creation.</li>
+        <li>Hiring for Front-end team.</li>
+        <li>Lead introduction of Typescript across the board.</li>
+        <li>Championed component-first approach to project delivery.</li>
+      </List>
+
+      <div className={jobTitleAndDateStyle}>
         <p css={{ color: "#FFF " }}>Senior JavaScript Developer</p>
-        <p>(2018-Present)</p>
+        <p>(2018-2019)</p>
       </div>
       <p css={{ fontWeight: "bold", fontSize: 14 }}>
         When You Move - Cutting edge property transaction platform.

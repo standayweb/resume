@@ -18,8 +18,8 @@ Software Engineer & JavaScript Junkie, all about building scalable, maintainable
 #### Front End
 
 - JavaScript, ES6, HTML, CSS
-- React, Redux, Jest, Flow
-- Bootstrap, SASS, PostCSS, Responsive
+- React, Redux, Jest, Typescript
+- Tailwind, SASS, CSS in JS, Responsive, Design Systems
 - Rx, Ramda, Lodash, Functional
 - Grunt, Gulp, NPM, Webpack
 - Mobile Web, Hybrid Apps, Electron, Widgets
@@ -33,7 +33,7 @@ Software Engineer & JavaScript Junkie, all about building scalable, maintainable
 
 #### Backend
 
-- Node.js, Express, MongoDB, Postgres
+- Node.js, Nest.js, Express, MongoDB, Postgres
 - AWS, EC2, S3, API Gateway, Lambda
 - Firebase,
 - GRPC, Web Services
@@ -43,11 +43,24 @@ Software Engineer & JavaScript Junkie, all about building scalable, maintainable
 
 ### Work
 
+#### Senior Software Engineer
+
+_enhance.com - Web Hosting Management, Made Simple_
+
+2019 - Present
+
+- Working with React, Redux, ES6, Webpack, Typescript, Jest, and more.
+- Building out a modern alternative to cPanel with cutting edge web technology.
+- Advanced design system & component library creation.
+- Hiring for Front-end team.
+- Lead introduction of Typescript across the board.
+- Championed component-first approach to project delivery.
+
 #### Senior JavaScript Developer
 
 _When You Move - Cutting edge property transaction platform._
 
-2018 - Present
+2018 - 2019
 
 - Working with React, Redux, ES6, Webpack, Flow, Jest, Node and more.
 - Leading the build of the new QuickQuote mortgage widget.

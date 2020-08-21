@@ -7,17 +7,17 @@ const style = css({
   margin: "0 0 48px 0",
   textAlign: "center",
   "@media(min-width: 600px)": {
-    textAlign: "left"
+    textAlign: "left",
   },
   "@media(min-width: 1050px)": {
-    textAlign: "center"
-  }
+    textAlign: "center",
+  },
 });
 
 const Current = () => (
   <p className={style}>
     Current&nbsp;Position:
-    Senior&nbsp;JavaScript&nbsp;Developer&nbsp;at&nbsp;WYM
+    Senior&nbsp;Software&nbsp;Engineer&nbsp;at&nbsp;enhance.com
   </p>
 );
 

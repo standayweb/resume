@@ -11,8 +11,8 @@ const Skills = () => (
         <h4>Front End</h4>
         <List>
           <li>JavaScript, ES6, HTML, CSS</li>
-          <li>React, Redux, Jest, Flow</li>
-          <li>Bootstrap, SASS, PostCSS, Responsive</li>
+          <li>React, Redux, Jest, Typescript</li>
+          <li>Tailwind, SASS, CSS in JS, Responsive, Design Systems</li>
           <li>Rx, Ramda, Lodash, Functional</li>
           <li>Grunt, Gulp, NPM, Webpack</li>
           <li>Mobile Web, Electron, Widgets</li>
@@ -30,7 +30,7 @@ const Skills = () => (
       <div css={{ flexGrow: 1 }}>
         <h4>Backend</h4>
         <List>
-          <li>Node.js, Express, Mongodb, Postgres</li>
+          <li>Node.js, Nest.js, Express, Mongodb, Postgres</li>
           <li>AWS, EC2, S3, API Gateway, Lambda</li>
           <li>Firebase</li>
           <li>GRPC, Web Services</li>
