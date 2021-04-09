@@ -20,7 +20,7 @@ const Work = () => (
         <p>(2020-Present)</p>
       </div>
       <p css={{ fontWeight: "bold", fontSize: 14 }}>
-        hone.gg - Improve gaming performance
+        Hone.gg - Improve gaming performance
       </p>
       <List css={{ marginBottom: 36 }}>
         <li>

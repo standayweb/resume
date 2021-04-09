@@ -12,11 +12,10 @@
     "sourceType": "module",
     "ecmaFeatures": {
       "jsx": true
-    },
-    "linebreak-style": 0,
-    "rules": {
-      "linebreak-style": ["error", "unix"]
     }
+  },
+  "rules": {
+    "linebreak-style": 0
   },
   "env": {
     "es6": true,

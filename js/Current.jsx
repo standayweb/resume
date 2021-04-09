@@ -16,7 +16,7 @@ const style = css({
 
 const Current = () => (
   <p className={style}>
-    Current&nbsp;Position: Co-Founder&nbsp;&&nbsp;CEO&nbsp;at Hone.gg
+    Current&nbsp;Position: Co-Founder & CEO at&nbsp;Hone.gg
   </p>
 );
 
