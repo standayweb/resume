@@ -1,6 +1,6 @@
 # Stanley E. M. Day
 
-## Software Engineer
+## Co-Founder & CEO at Hone.gg
 
 - [Portfolio](http://standayweb.com): http://standayweb.com
 - [Github](https://github.com/standayweb): https://github.com/standayweb
@@ -11,7 +11,7 @@ Please visit [standayweb.com/resume](http://standayweb.com/resume) for an online
 
 ### Summary
 
-Software Engineer & JavaScript Junkie, all about building scalable, maintainable applications with clean design and great UX. Wide range of experience, from static sites to desktop/mobile apps, to payment systems, and more. Excellent communicator used to working in remote teams.
+Helping gamers win more, one PC at a time. Hone.gg is the free desktop app that optimizes your PC to increase FPS, reduce input lag, and improve network performance. 
 
 ### Skills
 
@@ -44,11 +44,19 @@ Software Engineer & JavaScript Junkie, all about building scalable, maintainable
 
 ### Work
 
+#### Co-Founder & CEO
+
+_hone.gg - Improve gaming performance_
+
+2020 - present
+
+- Hone is the free desktop app that optimizes your PC to increase FPS, reduce input lag, and improve network performance.
+
 #### Senior Software Engineer
 
 _enhance.com - Web Hosting Management, Made Simple_
 
-2019 - Present
+2019 - 2020
 
 - Working with React, Redux, ES6, Webpack, Typescript, Jest, and more.
 - Building out a modern alternative to cPanel with cutting edge web technology.

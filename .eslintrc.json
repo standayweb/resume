@@ -12,6 +12,10 @@
     "sourceType": "module",
     "ecmaFeatures": {
       "jsx": true
+    },
+    "linebreak-style": 0,
+    "rules": {
+      "linebreak-style": ["error", "unix"]
     }
   },
   "env": {

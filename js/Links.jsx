@@ -1,28 +1,28 @@
 // @flow
-import React from 'react';
-import { css } from 'glamor';
+import React from "react";
+import { css } from "glamor";
 
 const style = css({
-  width: '100%',
+  width: "100%",
   maxWidth: 500,
-  margin: '0',
-  color: '#86888a',
-  borderCollapse: 'collapse',
-  fontSize: '14px',
-  lineHeight: '24px',
+  margin: "0",
+  color: "#86888a",
+  borderCollapse: "collapse",
+  fontSize: "14px",
+  lineHeight: "24px",
   marginBottom: 48,
-  '& td': {
+  "& td": {
     padding: 0,
   },
-  '& a': {
-    color: '#4e7be2',
-    textDecoration: 'none',
+  "& a": {
+    color: "#4e7be2",
+    textDecoration: "none",
   },
-  '& tr td:first-of-type': {
-    width: '35%',
-    fontWeight: '600',
+  "& tr td:first-of-type": {
+    width: "35%",
+    fontWeight: "600",
   },
-  '@media(min-width: 1050px)': {
+  "@media(min-width: 1050px)": {
     marginBottom: 72,
   },
 });

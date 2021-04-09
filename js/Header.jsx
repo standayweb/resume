@@ -1,19 +1,19 @@
 // @flow
-import React from 'react';
-import { css } from 'glamor';
+import React from "react";
+import { css } from "glamor";
 
 const headerStyle = css({
-  display: 'flex',
-  width: '100%',
-  justifyContent: 'center',
-  alignItems: 'center',
+  display: "flex",
+  width: "100%",
+  justifyContent: "center",
+  alignItems: "center",
   height: 216,
-  '@media(min-width: 600px)': {
+  "@media(min-width: 600px)": {
     maxWidth: 320,
-    justifyContent: 'flex-start',
+    justifyContent: "flex-start",
   },
-  '@media(min-width: 1050px)': {
-    justifyContent: 'center',
+  "@media(min-width: 1050px)": {
+    justifyContent: "center",
   },
 });
 
@@ -25,18 +25,16 @@ const imgStyle = css({
 });
 
 const nameStyle = css({
-  fontSize: '36px',
-  fontWeight: '400',
-  color: '#86888a',
-  lineHeight: '1.15',
+  fontSize: "36px",
+  fontWeight: "400",
+  color: "#86888a",
+  lineHeight: "1.15",
 });
 
 const Header = () => (
   <header className={headerStyle}>
     <img className={imgStyle} src="/public/profile.jpg" alt="" />
-    <h1 className={nameStyle}>
-      STANLEY<br /> E.M. DAY
-    </h1>
+    <h1 className={nameStyle}>STAN DAY</h1>
   </header>
 );
 

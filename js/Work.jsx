@@ -16,8 +16,22 @@ const Work = () => (
     <SectionTitle css={{ marginBottom: 12 }}>WORK</SectionTitle>
     <div css={{ display: "flex", flexDirection: "column", maxWidth: 600 }}>
       <div className={jobTitleAndDateStyle}>
+        <p css={{ color: "#FFF " }}>Co-Founder & CEO</p>
+        <p>(2020-Present)</p>
+      </div>
+      <p css={{ fontWeight: "bold", fontSize: 14 }}>
+        hone.gg - Improve gaming performance
+      </p>
+      <List css={{ marginBottom: 36 }}>
+        <li>
+          Hone is the free desktop app that optimizes your PC to increase FPS,
+          reduce input lag, and improve network performance.
+        </li>
+      </List>
+
+      <div className={jobTitleAndDateStyle}>
         <p css={{ color: "#FFF " }}>Senior Software Engineer</p>
-        <p>(2019-Present)</p>
+        <p>(2019-2020)</p>
       </div>
       <p css={{ fontWeight: "bold", fontSize: 14 }}>
         enhance.com - Web Hosting Management, Made Simple.
