@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "NODE_ENV=production webpack -p",
-    "build:dev": "NODE_ENV=development webpack -d",
+    "build": "cross-env NODE_ENV=production webpack -p",
+    "build:dev": "cross-env NODE_ENV=development webpack -d",
     "dev": "webpack-dev-server",
     "lint": "eslint **/*.{js,jsx}",
     "flow": "flow"
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/standayweb/resume#readme",
   "dependencies": {
+    "cross-env": "^7.0.3",
     "glamor": "^2.20.40",
     "preact": "^8.2.5",
     "preact-compat": "^3.17.0",
