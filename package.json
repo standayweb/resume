@@ -51,6 +51,6 @@
     "flow-bin": "^0.57.3",
     "prettier": "^1.7.4",
     "react-hot-loader": "^3.1.1",
-    "webpack-dev-server": "^2.9.3"
+    "webpack-dev-server": "^3.1.11"
   }
 }
